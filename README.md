@@ -1,5 +1,5 @@
 # rusty-sieve
-A python extension for a prime seive written in Rust
+A python extension for a prime sieve written in Rust
 
 Learning materials: 
 https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819
