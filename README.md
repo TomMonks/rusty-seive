@@ -1,4 +1,4 @@
-# rusty-seive
+# rusty-sieve
 A python extension for a prime seive written in Rust
 
 Learning materials: 
